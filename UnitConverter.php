@@ -7,7 +7,7 @@
  */
 
 /**
- * redSHOP Unit converter
+ * Unit converter
  *
  * @package  Unit.Converter
  * @since    2.5
